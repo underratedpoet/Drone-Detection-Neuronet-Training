@@ -84,7 +84,7 @@ video_detector.detectObjectsFromVideo(input_file_path="drone.mp4",
 
 ![Момент запуска кода](https://user-images.githubusercontent.com/103249547/180959799-66ad31f7-3c84-48e5-8cbc-52abaa4469da.png)
 
-Несмотря на все вышеописанное, такой способ работы с нейросетью позволил добиться увеличения скорости обучения и точности самой сети, которая, тем не менее, все равно остается небольшой.
+Несмотря на все вышеописанное, такой способ работы с нейросетью позволил добиться увеличения скорости обучения и точности самой сети, которая, тем не менее, остается небольшой.
 
 ![image](https://user-images.githubusercontent.com/103249547/180995183-fb4403cb-cd5c-4fcc-8f0d-ae3b30325beb.png)
 ![image](https://user-images.githubusercontent.com/103249547/180995233-dbf026cd-49ba-4500-a796-d1cba680467e.png)
