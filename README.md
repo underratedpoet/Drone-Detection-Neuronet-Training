@@ -99,3 +99,4 @@ video_detector.detectObjectsFromVideo(input_file_path="drone.mp4",
 
 Для увеличения batch size можно поэкспериментировать с версиями софта, который, возможно, сейчас использует ресурсы GPU нерационально, либо изменить саму архитектуру сети, уменьшив количество скрытых слоев, что, однако может только увеличить потери.
 
+[Обученная модель и json-файл](https://drive.google.com/drive/folders/1gmlP6D4Qz3kloXxdDgaNSKDKK_WzA8xI?usp=sharing)
